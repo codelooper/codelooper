@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Mayank Srivastav!
+### Hey 👋🏽, I'm <a href="https://www.linkedin.com/in/mayank-srivastav-a733b7192/">Mayank Srivastav!</a>
 
 <br/>
 
