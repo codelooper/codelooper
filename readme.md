@@ -46,5 +46,5 @@ Hi, I'm Mayank Srivastav, a Android Developer 🚀 from India, currently pursing
 
 
 ![](https://github-readme-stats.vercel.app/api?username=codelooper&show_icons=true&hide_border=true)
-
+<img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codelooper&layout=compact&theme=dark"/>
 
