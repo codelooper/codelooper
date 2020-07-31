@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Mayank Srivastav!
+### Hey 👋🏽, I'm <a href="https://www.linkedin.com/in/mayank-srivastav-a733b7192/">Mayank Srivastav!</a>
 
 <br/>
 
@@ -47,4 +47,5 @@ Hi, I'm Mayank Srivastav, a Android Developer 🚀 from India, currently pursing
 
 ![](https://github-readme-stats.vercel.app/api?username=codelooper&show_icons=true&hide_border=true)
 
+<img align="bottom" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codelooper&layout=compact&theme=dark"/>
 
