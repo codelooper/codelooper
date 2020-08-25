@@ -49,3 +49,8 @@ Hi, I'm Mayank Srivastav, a Android Developer 🚀 from India, currently pursing
 
 <img align="bottom" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=codelooper&layout=compact&theme=dark"/>
 
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=codelooper" width=160px/>
+</p>
+
